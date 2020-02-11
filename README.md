@@ -14,7 +14,7 @@
 - Задача 3 (optional)
 Попробовать решить данную задачу не для равностороннего треугольника, а для произвольного треугольника.
 
-![example](https://github.com/vjkuznetsov/csc_ams1_test/blob/master/master/example.png)
+![example](https://github.com/vjkuznetsov/csc_ams1_test/blob/master/img/example.png)
 
 ## Решение
 
